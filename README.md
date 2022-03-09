@@ -19,6 +19,23 @@
 <p align="center">
     Project of  🧚Amazone Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. AMAZONE-Alexa යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
     <br>
+
+## Thanks for Everything 
+### We will always remember you..
+- [Chamod](https://github.com/ChamodKeshan)
+- [Teenux](https://github.com/xneon2)
+- [Chamodya](https://github.com/En-cuzier)
+
+<p align="center">
+  <a href="https://github.com/ChamodKeshan/Hashzi-X/fork">
+    <img src="https://img.shields.io/github/forks/ChamodKeshan/Hashzi-X?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/ChamodKeshan/Hashzi-X/stargazers">
+    <img src="https://img.shields.io/github/stars/ChamodKeshan/Hashzi-X?style=social">
+  </a>
+</p>
+
         <a href="https://chat.whatsapp.com/EzQHXDVCU088IaunEuTJ7B">Support Group</a> |
         <a href="https://Wa.me/+94786825798">Chamod Keshan Whatsapp </a> |
    </a>    
@@ -59,14 +76,14 @@
 
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/ChamodKeshan/Hashzi-X?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/ChamodKeshan/Hashzi-X">
+    <img src="https://img.shields.io/github/languages/top/ChamodKeshan/Hashzi-X?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy">
+  <a href="https://github.com/ChamodKeshan">
     <img src="https://img.shields.io/static/v1?label=Author&message=Neotro%20X&color=purple&style=plastic">
 
   </a>
