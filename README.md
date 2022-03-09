@@ -19,8 +19,8 @@
 <p align="center">
     Project of  🧚Amazone Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. AMAZONE-Alexa යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
     <br>
-        <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
-        <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
+        <a href="https://chat.whatsapp.com/EzQHXDVCU088IaunEuTJ7B">Support Group</a> |
+        <a href="https://Wa.me/+94786825798">Chamod Keshan Whatsapp </a> |
    </a>    
         
   <p align="center">
