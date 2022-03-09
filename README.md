@@ -22,6 +22,7 @@
 
 ## Thanks for Everything 
 ### We will always remember you..
+
 - [Chamod](https://github.com/ChamodKeshan)
 - [Teenux](https://github.com/xneon2)
 - [Chamodya](https://github.com/En-cuzier)
@@ -34,10 +35,12 @@
   <a href="https://github.com/ChamodKeshan/Hashzi-X/stargazers">
     <img src="https://img.shields.io/github/stars/ChamodKeshan/Hashzi-X?style=social">
   </a>
+
 </p>
 
-        <a href="https://chat.whatsapp.com/EzQHXDVCU088IaunEuTJ7B">Support Group</a> |
-        <a href="https://Wa.me/+94786825798">Chamod Keshan Whatsapp </a> |
+
+   <a href="https://chat.whatsapp.com/EzQHXDVCU088IaunEuTJ7B">Support Group</a> |
+   <a href="https://Wa.me/+94786825798">Chamod Keshan Whatsapp </a> |
    </a>    
         
   <p align="center">
